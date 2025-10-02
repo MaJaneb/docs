@@ -1,0 +1,15 @@
+site_name: Local Docs
+site_url: http://localhost:8000/
+docs_dir: pages
+site_dir: site
+nav:
+  - lab1: lab1.md
+  - lab2: lab2.md
+  - lab3: lab3.md
+theme:
+  name: mkdocs
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
