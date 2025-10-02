@@ -1,0 +1,4 @@
+site_name: WEB
+site_url: https://MaJaneb.github.io/docs/
+theme:
+  name: material
