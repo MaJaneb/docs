@@ -7,7 +7,7 @@
 - **db** – PostgreSQL база данных.
 - **redis** – брокер сообщений для Celery.
 - **parser** – сервис для парсинга HTML страниц.
-- **hackathon** – основной FastAPI-приложение.
+- **web-app** – основной FastAPI-приложение.
 - **celery_worker** – воркер Celery для асинхронной обработки задач.
 
 ---
